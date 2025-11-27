@@ -1,6 +1,6 @@
 # Cod Reducere Elefant
 
-O colecție de coduri de reducere Elefant. Le folosim pentru testarea cuvintelor cheie cod reducere Elefant, voucher Elefant, cupon Elefant, și cod promotional Elefant de pe Cuponescu.ro.
+O colecție de coduri de reducere Elefant. Le folosim pentru testarea cuvintelor cheie [cod reducere Elefant](https://cuponescu.ro/magazin/elefant), [voucher Elefant](https://cuponescu.ro/magazin/elefant), [cupon Elefant](https://cuponescu.ro/magazin/elefant), și [cod promotional Elefant](https://cuponescu.ro/magazin/elefant) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-elefant a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
